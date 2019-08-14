@@ -2,7 +2,7 @@
 
 ## week 1 (first day 13 August)
 
-* Create a small blog with django
+* Create a small blog with flask
 
 ## week 2
 
