@@ -6,8 +6,8 @@
 
 ## Day 2 (15-08)
 
-* Introduction to flask and some more git comands started to write the blog
+* Introduction to flask and some more git comands started to write the blog.
 * Read chapter 2 of the book "Flask web development".
-* Learned about decorators 
+* Learned about decorators.
 
 ## Day 3 (16-08)
