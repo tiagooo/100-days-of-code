@@ -11,3 +11,6 @@
 * Learned about decorators.
 
 ## Day 3 (16-08)
+
+* Learned about decorators.
+* Completed chapter 2 of the book "Flask web development".
