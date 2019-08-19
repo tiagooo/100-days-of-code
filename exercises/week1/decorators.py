@@ -19,7 +19,7 @@ print (decorate())
 #or the simpler way to call it
 
 @uppercase_decorator
-def say_hi():
+def say_hi2():
     return 'hello there'
 
-print (say_hi())
+print (say_hi2())
