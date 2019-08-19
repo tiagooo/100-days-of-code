@@ -1,5 +1,6 @@
+#source: https://www.datacamp.com/community/tutorials/decorators-python
 
-##the decorator function
+#the decorator function
 def uppercase_decorator(function):
     def wrapper():
         func = function()
