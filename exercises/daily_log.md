@@ -14,3 +14,15 @@
 
 * Learned about decorators.
 * Completed chapter 2 of the book "Flask web development".
+
+## Day 4 (17-08)
+
+* Nothing learned
+
+## Day 5 (18-08)
+
+* Nothing learned
+
+## Day 6 (19-08)
+
+* Learned about decorators
