@@ -14,3 +14,7 @@
 
 * Learned about decorators.
 * Completed chapter 2 of the book "Flask web development".
+
+## Day 4 (07-09)
+
+* Restart learning flask
