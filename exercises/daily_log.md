@@ -12,7 +12,22 @@
 
 ## Day 3 (16-08)
 
-* Learned about decorators.
+* Learned more about decorators.
+
+## Day 4 (17-08)
+
+* Nothing learned
+
+## Day 5 (18-08)
+
+* Nothing learned
+
+## Day 6 (19-08)
+
+* Learned about decorators (introduction)
+
+## Day 7 (20-08)
+
 * Completed chapter 2 of the book "Flask web development".
 
 ## Day 4 (07-09)
