@@ -30,6 +30,7 @@
 
 * Completed chapter 2 of the book "Flask web development".
 
-## Day 8 (07-09)
+## Day 8 (10-09)
 
 * Restart learning flask
+
