@@ -36,4 +36,4 @@
 
 ## Day 9 (16-09)
 
-* First exercise of python bytes
+* First python byte
