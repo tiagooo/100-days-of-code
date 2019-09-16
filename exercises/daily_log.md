@@ -36,4 +36,9 @@
 
 ## Day 9 (16-09)
 
-* First python byte
+* First python byte done
+* Intro to regular expressions (Regular Expression, is a sequence of characters that forms a search pattern)
+
+## Day 10 (17-09)
+
+* Second python byte done (regex)
