@@ -33,3 +33,7 @@
 ## Day 8 (10-09)
 
 * Restart learning flask
+
+## Day 9 (16-09)
+
+* First exercise of python bytes
