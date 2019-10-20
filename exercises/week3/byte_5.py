@@ -1,4 +1,3 @@
-#test
 NAMES = ['arnold schwarzenegger', 'alec baldwin', 'bob belderbos',
          'julian sequeira', 'sandra bullock', 'keanu reeves',
          'julbob pybites', 'bob belderbos', 'julian sequeira',
