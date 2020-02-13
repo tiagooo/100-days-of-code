@@ -8,6 +8,6 @@
 
 * Learn the basics of javascript
 
-## week 4 
+## week 4
 
 * Learn comment good practices
