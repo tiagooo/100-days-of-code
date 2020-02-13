@@ -7,3 +7,7 @@
 ## week 2
 
 * Learn the basics of javascript
+
+## week 4 
+
+* Learn comment good practices
