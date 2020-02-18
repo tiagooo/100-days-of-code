@@ -24,7 +24,7 @@
 
 ## Day 6 (19-08)
 
-* Learned about decorators (introduction)
+* Learned about decorators (introduction) (source: <https://realpython.com/primer-on-python-decorators/)>
 
 ## Day 7 (20-08)
 
