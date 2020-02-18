@@ -1,4 +1,4 @@
-# Bite 1. Sum n numbers
+# bite 1. Sum n numbers
 
 # my solution
 def sum_numbers(numbers=None):   

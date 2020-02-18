@@ -1,4 +1,4 @@
-# Bite 5. Parse a list of names
+# bite 5. Parse a list of names
 
 
 NAMES = ['arnold schwarzenegger', 'alec baldwin', 'bob belderbos',

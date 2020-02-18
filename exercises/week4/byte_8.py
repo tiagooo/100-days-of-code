@@ -1,4 +1,4 @@
-# Bite 8. Rotate string characters
+# bite 8. Rotate string characters
 
 
 def rotate(string, n):
