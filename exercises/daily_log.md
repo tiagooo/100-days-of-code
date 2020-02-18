@@ -46,4 +46,13 @@
 ## Day 11 (12-02)
 
 * Done byte 5
-* Learned about lamba anonymous function (ex: x = lambda a : a + 10     print(x(5)))
+* Learned about lamba anonymous function (ex: x = lambda a : a + 10 ...  print(x(5))) (<https://realpython.com/python-lambda/)>
+
+## Day 12 (15-02)
+
+* Kinetium update
+
+## Day 13 (18-02)
+
+* Done byte 8
+* Learned about string manipulation (ex: word[-3:] #get the last three char)
