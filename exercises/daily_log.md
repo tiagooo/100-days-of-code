@@ -56,3 +56,4 @@
 
 * Done byte 8
 * Learned about string manipulation (ex: word[-3:] #get the last three char)
+* Done byte 251
