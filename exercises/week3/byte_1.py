@@ -1,4 +1,6 @@
-#my solution
+# Bite 1. Sum n numbers
+
+# my solution
 def sum_numbers(numbers=None):   
     if numbers is None:
         summy = 5050
@@ -6,8 +8,8 @@ def sum_numbers(numbers=None):
         summy = sum(numbers)
     return summy
 
-#perfect solution
-#def sum_numbers(numbers=None):
+# perfect solution
+# def sum_numbers(numbers=None):
 #    if numbers is None:
 #        numbers = range(1, 101)
 #    return sum(numbers)
