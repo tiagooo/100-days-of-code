@@ -61,3 +61,4 @@
 ## Day 14 (19-02)
 
 * Done byte 252
+* Learned about asterisk (*) as unpacking into function call (ex: print (range(1, 3)) vs print (*range(1, 3))) (src: <https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)>
