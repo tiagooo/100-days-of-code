@@ -1,4 +1,4 @@
-# bite 15. Enumerate 2 sequences 
+# bite 15. Enumerate 2 sequences
 
 names = 'Julian Bob PyBites Dante Martin Rodolfo'.split()
 countries = 'Australia Spain Global Argentina USA Mexico'.split()
