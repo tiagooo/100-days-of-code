@@ -13,4 +13,4 @@ def enumerate_names_countries():
        5. Martin     USA
        6. Rodolfo    Mexico"""
 
-def teste():
+def test():
