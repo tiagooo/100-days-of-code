@@ -14,3 +14,4 @@ def enumerate_names_countries():
        6. Rodolfo    Mexico"""
 
 def test():
+    x=1
